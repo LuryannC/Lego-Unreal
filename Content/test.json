@@ -1,0 +1,11 @@
+{
+"widget":{
+	"debug":true,
+	"window":{
+		"title":"Sample title",
+		"name":"main window",
+		"width":500,
+		"height":500
+}
+}
+}
